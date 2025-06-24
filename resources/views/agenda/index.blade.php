@@ -383,7 +383,7 @@
   <nav class="custom-navbar">
     <div class="left">
       <a href="{{route('home')}}">
-        <img src="{{ asset('LOGOFIX.png') }}" alt="Ombudsman" class="animated" />
+        <img src="{{ asset('logoapk.png') }}" alt="Ombudsman" class="animated" />
       </a>
     </div>
     <div class="center animated delay-1" id="datetime">Memuat waktu...</div>

@@ -12,10 +12,10 @@
             overflow-x: hidden;
             margin: 0;
             padding: 0;
-            background-image: url('{{ asset('ombudsman.jpg') }}');  /* Ganti URL_GAMBAR dengan URL gambar yang diinginkan */
-            background-size: cover;  /* Agar gambar mengisi seluruh halaman */
-            background-position: center center;  /* Agar gambar terposisi di tengah */
-            background-attachment: fixed;  /* Gambar tidak bergerak saat scroll */
+            /* background-image: url('{{ asset('ombudsman.jpg') }}');
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed; */
         }
         .sidebar {
             position: fixed;
