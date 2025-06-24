@@ -515,8 +515,7 @@
             <div class="card-body">
               <h5 class="card-title text-primary"><i class="fas fa-clock me-2"></i>Jam Operasional</h5>
               <p class="card-text">
-                Senin - Kamis: 08.00 - 16.00 WIB<br>
-                Jumat: 08.00 - 16.30 WIB<br>
+                Senin - Jumat: 08.00 - 16.30 WIB<br>
                 Sabtu - Minggu: Libur
               </p>
             </div>
