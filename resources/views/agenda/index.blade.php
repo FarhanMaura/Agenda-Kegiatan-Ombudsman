@@ -420,10 +420,7 @@
     <!-- Agenda Section -->
     <section class="agenda-section animated delay-1">
       <div class="section-header">
-        <h2 class="section-title"><i class="fas fa-calendar-alt text-accent"></i> Agenda Mingguan</h2>
-        <div class="btn-group" role="group">
-          <button type="button" class="btn btn-outline-primary active">Minggu Ini</button>
-        </div>
+        <h2 class="section-title"><i class="fas fa-calendar-alt text-accent"></i> Agenda Kegiatan</h2>
       </div>
 
       <div class="agenda-table-container">
