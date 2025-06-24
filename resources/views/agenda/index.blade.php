@@ -353,7 +353,7 @@
       background-color: var(--secondary-color);
       color: white;
       border: none;
-      padding: 10px 20px;
+      padding: 4px 6px;
       border-radius: 30px;
       font-weight: 500;
       transition: var(--transition);
