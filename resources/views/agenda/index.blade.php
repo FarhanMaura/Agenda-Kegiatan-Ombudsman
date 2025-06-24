@@ -540,13 +540,6 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="footer-content">
-      <div class="footer-links">
-        <a href="#" class="footer-link">Tentang Kami</a>
-        <a href="#" class="footer-link">Layanan</a>
-        <a href="#" class="footer-link">Kontak</a>
-        <a href="#" class="footer-link">FAQ</a>
-        <a href="#" class="footer-link">Privasi</a>
-      </div>
       <div class="copyright">
         &copy; {{ date('Y') }} Ombudsman Republik Indonesia - Sumatera Selatan | Dibuat oleh Tim IT Ombudsman
       </div>
