@@ -541,7 +541,7 @@
   <footer class="footer">
     <div class="footer-content">
       <div class="copyright">
-        &copy; {{ date('Y') }} Ombudsman Republik Indonesia - Sumatera Selatan | Dibuat oleh Tim IT Ombudsman
+        &copy; {{ date('Y') }} Ombudsman Republik Indonesia - Sumatera Selatan.
       </div>
     </div>
   </footer>
